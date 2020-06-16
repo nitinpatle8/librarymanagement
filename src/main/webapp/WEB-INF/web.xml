@@ -74,7 +74,7 @@ and open the template in the editor.
         <url-pattern>/ShowAllBooks</url-pattern>
     </servlet-mapping>
     
-=======
+ =======
         <servlet-name>AdminHomeBooks</servlet-name>
         <url-pattern>/AdminHomeBooks</url-pattern>
     </servlet-mapping>
@@ -98,5 +98,5 @@ and open the template in the editor.
         <servlet-name>UserHomeBooks</servlet-name>
         <url-pattern>/UserHomeBooks</url-pattern>
     </servlet-mapping>
->>>>>>> e6d655bd66cc9395d6e1828d8ee8f1fea016d065
+ >>>>>>> e6d655bd66cc9395d6e1828d8ee8f1fea016d065 
 </web-app>
